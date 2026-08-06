@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DjiSamsoe
+- 👋 Hi, I’m @Syauqi_Nurfikri_Rahman
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Program languange
 - 💞️ I’m looking to collaborate on everything
