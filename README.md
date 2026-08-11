@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syauqi_Nurfikri_Rahman
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning AI Programming
+- 🌱 I’m currently learning AI Programming and Data Science
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/syauqi-nr-87b14b292/)
 - 😄 Pronouns: Syauqi
